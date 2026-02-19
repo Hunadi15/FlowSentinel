@@ -1,5 +1,9 @@
 # FlowSentinel
 
+**[🚀 Try the live dashboard now](https://hunadi15.github.io/FlowSentinel/flowsentinel-main/src/FlowSentinel.Dashboard/index.html){:target="_blank"}**
+
+> Opens the preview immediately so you can interact with the UI without any setup.
+
 FlowSentinel is an open‑source traffic governance and abuse‑detection platform built in .NET Core. The project includes a sample API, a gateway, a rate‑limiting engine, and a front‑end dashboard for policy management and analytics.
 
 ---
